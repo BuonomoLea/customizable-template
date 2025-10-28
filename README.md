@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributing](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Accessibility: RGAA](https://img.shields.io/badge/Accessibilit%C3%A9-RGAA-blue)](https://accessibilite.numerique.gouv.fr/)
 
 # Template adaptable pour indépendants
