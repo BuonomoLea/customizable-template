@@ -19,6 +19,7 @@ Ce template personnalisable est destiné aux indépendants, artisans, autoentrep
 ## Présentation
 
 Permet de présenter ses services, projets, FAQ, informations légales et coordonnées sur un site one page à travers des section prêtes à remplir.
+Audit lighthouse: performance 97, accessibility 93, practices 96, SEO 100
 
 ## Fonctionnalités
 
@@ -26,6 +27,12 @@ Permet de présenter ses services, projets, FAQ, informations légales et coordo
 - Personnalisation des couleurs et polices avec :root
 - Design responsive adapté aux différents formats d'écran
 - Accessibilité: navigation clavier, contrastes, réduction des animations
+
+### A réaliser
+- Theme light/dark
+- Forced-colors
+- Prefers-contrast
+- Amélioration des petits textes pour certaines déficiences visuelles
 
 ## Fichiers inclus
 
